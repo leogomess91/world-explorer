@@ -37,6 +37,12 @@ A aplicação utiliza a API pública Countries.dev para obter informações sobr
 
 https://countries.dev
 
+## 🌐 Deploy
+
+A aplicação está disponível online através da Vercel:
+
+https://world-explorer-git-stage-1-world-explorer1.vercel.app
+
 ## 💻 Como executar o projeto
 
 Clone o repositório e instale as dependências:
